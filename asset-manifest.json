@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Authentication-Form/static/css/main.9981661f.css",
+    "main.js": "/Authentication-Form/static/js/main.bee4f942.js",
+    "index.html": "/Authentication-Form/index.html",
+    "main.9981661f.css.map": "/Authentication-Form/static/css/main.9981661f.css.map",
+    "main.bee4f942.js.map": "/Authentication-Form/static/js/main.bee4f942.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9981661f.css",
+    "static/js/main.bee4f942.js"
+  ]
+}
